@@ -1,0 +1,78 @@
+.background1{
+  background-color: rgb(219, 240, 238); 
+  margin: 0%;
+  height: 724px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading{
+  font-family: caveat;
+}
+
+.lead{
+    font-family: cursive;
+    color: rgb(155, 127, 153);
+}
+
+.image{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.image img{
+  border-radius: 100%;
+}
+
+.hello{
+  text-align: center;
+  font-family: cursive;
+  color:darkcyan;
+}
+
+.space{
+  height: 250px;
+}
+
+.skills img{
+  float: left;
+}
+
+.typing img{
+  float: left;
+}
+
+.images{
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: cursive;
+  margin: auto;
+
+}
+
+.spaces{
+  height: 50px;
+}
+
+.skills{
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+
+}
+
+.contact{
+  justify-content: center ;
+  text-align: center;
+  font-size: 25px;
+  color:darkcyan
+
+}
